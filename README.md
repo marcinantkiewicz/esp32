@@ -1,2 +1,2 @@
 # esp32
-esp32 projects
+ - fermenter_controller: instrumentation for 22gal fermenter. Status: thermocouple reads 10F high. Heating pad relay works.
